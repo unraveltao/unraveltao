@@ -12,13 +12,10 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unraveltao&theme=onestar&no-frame=true&row=1&column=7" alt="unraveltao" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unravelTao&show_icons=true&theme=transparent" alt="unraveltao's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent" alt="unraveltao" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=unravelTao&show_icons=true&theme=transparent&width=495" alt="unraveltao's GitHub stats" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent&width=495" alt="unraveltao" />
+</div>
 
 
 
