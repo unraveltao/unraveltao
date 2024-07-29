@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unraveltao&abbreviated=true" alt="unraveltao" />
+  <img src="https://komarev.com/ghpvc/?username=unraveltao" alt="unraveltao" />
 </p>
 
 <p align="center">
