@@ -23,13 +23,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **Advanced Go and React Patterns**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤝 I'm looking for help with **[Areas you need help]**
-- 💬 Ask me about **Go, React, Docker, and Web Development**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+- 🔭 I'm currently working on **building a personal blog using React and Go**
+- 🌱 I'm currently learning **Advanced Go concurrency patterns and React hooks**
+- 👯 I'm looking to collaborate on **open-source web development projects**
+- 🤝 I'm looking for help with **optimizing Docker containers for Go applications**
+- 💬 Ask me about **Go, React, Docker, and modern web development practices**
+- 📫 How to reach me: **irontom233@gmail.com**
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 ## 🛠 Skills
 
