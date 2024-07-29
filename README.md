@@ -1,24 +1,27 @@
 <h1 align="center">Hi there, I'm @unraveltao 👋</h1>
-<h3 align="center">A passionate developer from [Your Location]</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=unraveltao&label=Profile%20views&color=0e75b6&style=flat" alt="unraveltao" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=A+passionate+developer+from+China;Go+%7C+React+%7C+Docker+Enthusiast;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unraveltao&theme=darkhub&no-frame=true&row=1&column=7" alt="unraveltao" /></a>
+  <img src="https://komarev.com/ghpvc/?username=unraveltao&label=Profile%20views&color=0e75b6&style=flat" alt="unraveltao" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=unravelTao&show_icons=true&theme=radical" alt="unraveltao's GitHub stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unraveltao&theme=onestar&no-frame=true&row=1&column=7" alt="unraveltao" /></a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=dark" alt="unraveltao" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unravelTao&show_icons=true&theme=transparent" alt="unraveltao's GitHub stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent" alt="unraveltao" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&layout=compact&theme=transparent" alt="Top Langs" />
 </p>
 
 ## 🚀 About Me
@@ -34,13 +37,13 @@
 ## 🛠 Skills
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 ## 📊 This Week I Spent My Time On
