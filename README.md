@@ -47,7 +47,9 @@
     </p>
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent&layout=compact" alt="Top Langs" width="50%" />
+    <div style="display: flex; justify-content: center;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" width="70%" height="200px" />
+    </div>
   </div>
 </div>
 
