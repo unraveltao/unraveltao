@@ -43,10 +43,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40" style="margin: 5px;"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" width="300" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" width="300" />
-
 
 <h2 align="center">📊 This Week I Spent My Time On</h2>
 
