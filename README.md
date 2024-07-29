@@ -29,48 +29,25 @@
 - 📫 How to reach me: **irontom233@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
-<h2 align="center">🛠 Skills & Most Used Languages</h2>
 
-<div style="display: flex; justify-content: space-between; align-items: stretch; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 200px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="margin: 5px;"/>
+
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; margin-right: 20px;">
+    <h2 align="center">🛠 Skills & Most Used Languages</h2>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>          
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/>          
+    </p>
   </div>
-  
-  <div style="flex: 1; min-width: 200px;">
-    <table style="width: 100%; border-collapse: collapse;">
-      <tr>
-        <th style="text-align: left; padding: 8px; border-bottom: 1px solid #ddd;">Language</th>
-        <th style="text-align: right; padding: 8px; border-bottom: 1px solid #ddd;">Usage</th>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border-bottom: 1px solid #ddd;">Jupyter Notebook</td>
-        <td style="text-align: right; padding: 8px; border-bottom: 1px solid #ddd;">97.25%</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border-bottom: 1px solid #ddd;">HTML</td>
-        <td style="text-align: right; padding: 8px; border-bottom: 1px solid #ddd;">1.11%</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border-bottom: 1px solid #ddd;">CSS</td>
-        <td style="text-align: right; padding: 8px; border-bottom: 1px solid #ddd;">0.98%</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border-bottom: 1px solid #ddd;">JavaScript</td>
-        <td style="text-align: right; padding: 8px; border-bottom: 1px solid #ddd;">0.52%</td>
-      </tr>
-      <tr>
-        <td style="padding: 8px; border-bottom: 1px solid #ddd;">Python</td>
-        <td style="text-align: right; padding: 8px; border-bottom: 1px solid #ddd;">0.14%</td>
-      </tr>
-    </table>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent&layout=compact" alt="Top Langs" width="50%" />
   </div>
 </div>
 
