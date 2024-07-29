@@ -20,9 +20,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent" alt="unraveltao" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" />
-</p>
+
 
 ## 🚀 About Me
 
@@ -48,6 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/>          
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" />
+</p>
 ## 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
