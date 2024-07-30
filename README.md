@@ -53,7 +53,7 @@
 
 
 
-<h2 align="center">📊 This Week I Spent My Time On</h2>
+<h2 align="center">📊 Waka-Time Statistics</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
