@@ -53,6 +53,23 @@
     </div>
 </div>
 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <div style="width: 60%; border: 2px solid #e1e4e8; border-radius: 6px; padding: 10px; margin-right: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 5px;"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" style="margin: 5px;"/>
+    </div>
+    <div style="width: 40%; display: flex; justify-content: center; align-items: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&layout=compact&theme=transparent" alt="Top Langs" style="width: 100%; max-width: 300px;" />
+    </div>
+  </div>
+
 
 <h2 align="center">📊 This Week I Spent My Time On</h2>
 
