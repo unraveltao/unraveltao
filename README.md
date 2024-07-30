@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unravelTao&show_icons=true&theme=transparent&width=495" alt="unraveltao's GitHub stats" width=48% height=180px/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent&width=495" alt="unraveltao" width=48% height=200px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=unravelTao&show_icons=true&theme=transparent&width=495" alt="unraveltao's GitHub stats" width=48% height=40%/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent&width=495" alt="unraveltao" width=48% height=40%/>
 </p>
 
 
