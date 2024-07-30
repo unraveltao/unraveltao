@@ -33,7 +33,7 @@
 <h2 align="center">🛠 Skills & Most Used Languages</h2>
 
 
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40" style="margin: 5px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 5px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin: 5px;"/>
@@ -46,8 +46,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40" style="margin: 5px;"/>
   </p>
 
-<p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" width="300" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" width="500" />
 </p>
 
 
