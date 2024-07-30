@@ -14,40 +14,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unravelTao&show_icons=true&theme=transparent&width=495" alt="unraveltao's GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent&width=495" alt="unraveltao" />
 </p>
-
-<style>
-    .stats-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-        gap: 20px;
-    }
-    .stats-item {
-        flex: 1;
-        min-width: 300px;
-        max-width: 495px;
-    }
-    img {
-        width: 100%;
-        height: auto;
-    }
-</style>
-
-
-<div class="stats-container">
-    <div class="stats-item">
-        <img src="https://github-readme-stats.vercel.app/api?username=unravelTao&show_icons=true&theme=transparent" alt="unraveltao's GitHub stats" />
-    </div>
-    <div class="stats-item">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent" alt="unraveltao" />
-    </div>
-</div>
 
 
 
