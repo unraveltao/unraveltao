@@ -45,7 +45,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40" style="margin: 5px;"/>
     </div>
     <div style="width: 30%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" style="width: 100%; max-width: 300px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" style="width: 100px; max-width: 300px;" />
     </div>
   </div>
 
