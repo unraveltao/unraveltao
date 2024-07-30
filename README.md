@@ -66,7 +66,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" style="margin: 5px;"/>
     </div>
     <div style="width: 40%; display: flex; justify-content: center; align-items: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&layout=compact&theme=transparent" alt="Top Langs" style="width: 100%; max-width: 300px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" style="width: 500px; height: 200px;"/>
     </div>
   </div>
 
