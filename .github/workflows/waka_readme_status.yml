@@ -11,12 +11,43 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: anmol098/waka-readme-stats@master
+      
+      - name: Waka Readme Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
-          SHOW_TITLE: "True"
-          SHOW_TIME: "True"
-          COMMIT_MESSAGE: "每周 WakaTime 统计更新"
+          SHOW_TITLE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "False"
+          SHOW_LOC_CHART: "False"
+          COMMIT_MESSAGE: "更新 WakaTime 统计信息"
           TIMEZONE: "Asia/Shanghai"
+          
+      - name: Update README with Charts
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          # 获取语言使用统计图表
+          language_chart="https://wakatime.com/share/@$(echo $WAKATIME_API_KEY | cut -c1-8)/d1ad40b7-9637-4449-803c-8e4949ff2073.svg"
+          
+          # 获取编码活动图表
+          activity_chart="https://wakatime.com/share/@$(echo $WAKATIME_API_KEY | cut -c1-8)/93856aa8-6a0e-4651-8dab-e3b0fa37d6e0.svg"
+          
+          # 在 README.md 的 WakaTime 统计部分末尾添加图表
+          sed -i '/<!--END_SECTION:waka-->/i \
+          \n## 📊 WakaTime Charts\
+          \n\n### Languages over Last Year\
+          \n<img src="'"$language_chart"'" width="500" alt="Languages over Last Year">\
+          \n\n### Coding Activity over Last 30 Days\
+          \n<img src="'"$activity_chart"'" width="500" alt="Coding Activity over Last 30 Days">\
+          ' README.md
+
