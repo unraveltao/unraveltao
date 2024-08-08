@@ -33,7 +33,7 @@
 <h2 align="center">🛠 Skills & Most Used Languages</h2>
 
 
-<p align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; max-width: 600px; margin: 0 auto;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50" style="margin: 5px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 5px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 5px;"/>
@@ -49,7 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin: 5px;"/>
     <img src="https://mui.com/static/logo.png" alt="material-ui" width="50" height="50" style="margin: 5px;"/>
     <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design" width="50" height="50" style="margin: 5px;"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" width="500" height="300" />
