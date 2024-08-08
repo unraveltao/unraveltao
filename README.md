@@ -47,6 +47,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" style="margin: 5px;"/>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin: 5px;"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="margin: 5px;"/>
+    <img src="https://mui.com/static/logo.png" alt="material-ui" width="50" height="50" style="margin: 5px;"/>
+    <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design" width="50" height="50" style="margin: 5px;"/>
 </p>
 
 <p align="center">
