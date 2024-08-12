@@ -21,10 +21,10 @@
 
 <h2 align="center">🚀 About Me</h2>🚀 About Me
 
-- 🔭 I'm currently working on **building a personal blog using React and Go**
-- 🌱 I'm currently learning **Advanced Go concurrency patterns and React hooks**
+- 🔭 I'm currently working on **building a personal blog using Next.js**
+- 🌱 I'm currently learning **Advanced React hooks and Javascript**
 - 👯 I'm looking to collaborate on **open-source web development projects**
-- 🤝 I'm looking for help with **optimizing Docker containers for Go applications**
+- 🤝 I'm looking for help with **optimizing React for web projects**
 - 💬 Ask me about **Go, React, Docker, and modern web development practices**
 - 📫 How to reach me: **irontom233@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
