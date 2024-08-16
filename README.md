@@ -17,7 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=unraveltao&theme=transparent&width=495" alt="unraveltao" width=48% height=40%/>
 </p>
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66be293f91320df4bdef977f?variant=dark)](https://roadmap.sh)
+
 
 <h2 align="center">🚀 About Me</h2>🚀 About Me
 
@@ -52,6 +52,7 @@
 </p>
 
 <p align="center">
+  [![roadmap.sh](https://roadmap.sh/card/tall/66be293f91320df4bdef977f?variant=dark)](https://roadmap.sh)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unravelTao&theme=transparent" alt="Top Langs" width="500" height="300" />
 </p>
 
