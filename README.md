@@ -19,7 +19,7 @@
 
 
 
-<h2 align="center">🚀 About Me</h2>🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 - 🔭 I'm currently working on **building a personal blog using Next.js**
 - 🌱 I'm currently learning **Advanced React hooks and Javascript**
