@@ -34,7 +34,7 @@ I build desktop apps — Rust core, React shell, and the pixels in between.
 
 - **[lattice](https://github.com/unraveltao/lattice)** — widget platform for Windows. Tauri 2 · React 19 · Rust · MIT
 - **[Notes](https://github.com/unraveltao/Notes)** — working notes on systems, tooling and the web.
-- **[blog.github.io]([https://github.com/unraveltao/blog.github.io](https://unraveltao.github.io/))** — personal blog, still being built.
+- **[blog.github.io](https://unraveltao.github.io/)** — personal blog, still being built.
 
 ## Stack
 
