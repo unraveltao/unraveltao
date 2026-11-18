@@ -65,55 +65,57 @@ A collection of reusable skills for AI-assisted software development, learning, 
 
 ## Tech Stack & Tools
 
-<sub>Tools I use to learn, build, and ship software. SVG badges use recognizable brand marks; Codex and GitHub Projects use their parent brand marks.</sub>
+<sub>Technologies and tools I use. Original multicolor SVGs where available; brand-color marks otherwise. Some products share their parent brand mark.</sub>
 
 ### Languages & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-24292f?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="28">
-  <img src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28">
-  <img src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white" alt="Python" height="28">
-  <img src="https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white" alt="React" height="28">
-  <img src="https://img.shields.io/badge/Tauri-24292f?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" height="28">
-  <img src="https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="28">
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust logo" width="22" height="22" align="center"> Rust&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="22" height="22" align="center"> TypeScript&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python logo" width="22" height="22" align="center"> Python&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React logo" width="22" height="22" align="center"> React&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" alt="Tauri logo" width="22" height="22" align="center"> Tauri&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="22" height="22" align="center"> Node.js&nbsp;&nbsp;&nbsp;</span>
 </p>
 
 ### AI & Agents
 
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-24292f?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" height="28">
-  <img src="https://img.shields.io/badge/Claude-24292f?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" height="28">
-  <img src="https://img.shields.io/badge/DeepSeek-24292f?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" height="28">
-  <img src="https://img.shields.io/badge/Codex-24292f?style=flat-square&logo=openai&logoColor=white" alt="Codex" height="28">
+  <span><img src="https://cdn.simpleicons.org/openai/10A37F" alt="ChatGPT logo" width="22" height="22" align="center"> ChatGPT&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude logo" width="22" height="22" align="center"> Claude&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek logo" width="22" height="22" align="center"> DeepSeek&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.simpleicons.org/openai/10A37F" alt="Codex logo" width="22" height="22" align="center"> Codex&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.simpleicons.org/ollama/808080" alt="Ollama logo" width="22" height="22" align="center"> Ollama&nbsp;&nbsp;&nbsp;</span>
 </p>
 
 ### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-24292f?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" height="28">
-  <img src="https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white" alt="Git" height="28">
-  <img src="https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28">
-  <img src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28">
-  <img src="https://img.shields.io/badge/SQLite-24292f?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" height="28">
-  <img src="https://img.shields.io/badge/PowerShell-24292f?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" height="28">
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code logo" width="22" height="22" align="center"> VS Code&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git logo" width="22" height="22" align="center"> Git&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.simpleicons.org/github/808080" alt="GitHub logo" width="22" height="22" align="center"> GitHub&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker logo" width="22" height="22" align="center"> Docker&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite logo" width="22" height="22" align="center"> SQLite&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell logo" width="22" height="22" align="center"> PowerShell&nbsp;&nbsp;&nbsp;</span>
 </p>
 
 ### Project & Design
 
 <p>
-  <img src="https://img.shields.io/badge/Linear-24292f?style=flat-square&logo=linear&logoColor=white" alt="Linear" height="28">
-  <img src="https://img.shields.io/badge/Figma-24292f?style=flat-square&logo=figma&logoColor=white" alt="Figma" height="28">
-  <img src="https://img.shields.io/badge/GitHub%20Projects-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub Projects" height="28">
+  <span><img src="https://cdn.simpleicons.org/linear/5E6AD2" alt="Linear logo" width="22" height="22" align="center"> Linear&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma logo" width="22" height="22" align="center"> Figma&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.simpleicons.org/github/808080" alt="GitHub Projects logo" width="22" height="22" align="center"> GitHub Projects&nbsp;&nbsp;&nbsp;</span>
 </p>
 
 ### Knowledge & Research
 
 <p>
-  <img src="https://img.shields.io/badge/Obsidian-24292f?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" height="28">
-  <img src="https://img.shields.io/badge/Firecrawl-24292f?style=flat-square&logoColor=white" alt="Firecrawl" height="28">
+  <span><img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Obsidian logo" width="22" height="22" align="center"> Obsidian&nbsp;&nbsp;&nbsp;</span>
+  <span>Firecrawl&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="https://cdn.simpleicons.org/notion/808080" alt="Notion logo" width="22" height="22" align="center"> Notion&nbsp;&nbsp;&nbsp;</span>
 </p>
 
-<!-- SVG badges are hosted by shields.io. Firecrawl currently uses a text-only SVG badge until its official logo asset is verified. -->
+<!-- Codex and GitHub Projects use parent-brand icons. Firecrawl is text-only until its logo is verified. External SVG sources should be checked in GitHub's rendered preview. -->
 
 ## Activity
 
