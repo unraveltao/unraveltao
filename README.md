@@ -2,39 +2,66 @@
 
 # Iron Tom
 
-<sub>desktop software, end to end · 从内核到像素</sub>
+**UNRAVEL BEYOND BOUNDARIES**
 
-I build desktop apps — Rust core, React shell, and the pixels in between.
+<sub>From Kernel to Pixels · 从内核到像素</sub>
+
+Building software, exploring AI agents, and learning how systems work.
 
 </div>
 
-## Lattice · 棂
+## Personal Blog
 
-**Your own widgets on the Windows desktop — a widget is just a web page.**
+<table>
+<tr>
+<td width="100%">
 
-<sub>棂 —— 你自己的桌面小组件。一个组件，就是一个网页。</sub>
+### 📖 Iron Tom's Blog
 
-<!-- 截图位：把 assets/lattice.png 放进来，然后删掉下面这行的注释符
-<img src="./assets/lattice.png" alt="Lattice running three widgets on a Windows desktop" width="820">
--->
+**Notes · Ideas · Engineering**
 
-- **17 widgets, none built in.** Every official widget installs through the same path as a third-party one — the app ships empty.
-- **Sandboxed by default.** Widgets run in opaque-origin iframes with 12 permissions, none granted until you approve them.
-- **22K lines of TypeScript over 23K lines of Rust.** A Tauri 2 shell sharing the system WebView2, not one Chromium per widget.
+A place to document what I learn, build, and discover — from software engineering and computer science to AI-assisted development.
 
-[Repository](https://github.com/unraveltao/lattice) · [Releases](https://github.com/unraveltao/lattice/releases) · MIT
+**[Visit the Blog →](https://unraveltao.github.io/)**
 
-## Now
+</td>
+</tr>
+</table>
 
-- Building **Lattice** full time — the widget platform above, currently pre-1.0.
-- Going deeper on **Rust, WebView2, and sandboxed permission models**.
-- Open to **remote roles and collaboration** on desktop or developer-tool projects.
+## Featured Projects
 
-## Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **[lattice](https://github.com/unraveltao/lattice)** — widget platform for Windows. Tauri 2 · React 19 · Rust · MIT
-- **[Notes](https://github.com/unraveltao/Notes)** — working notes on systems, tooling and the web.
-- **[blog.github.io](https://unraveltao.github.io/)** — personal blog, still being built.
+### 🧩 [Lattice](https://github.com/unraveltao/Lattice)
+
+**Desktop Agent & Plugin Platform**
+
+An extensible desktop platform exploring AI agents, plugins, permissions, and developer workflows.
+
+`Rust` · `React` · `Tauri`
+
+**[View Repository →](https://github.com/unraveltao/Lattice)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [Skills](https://github.com/unraveltao/Skills)
+
+**Reusable AI Skills & Workflows**
+
+A collection of reusable skills for AI-assisted software development, learning, research, and automation.
+
+`AI Agents` · `Workflows` · `Automation`
+
+**[View Repository →](https://github.com/unraveltao/Skills)**
+
+</td>
+</tr>
+</table>
+
+<sub>More experiments and repositories: [Explore all repositories](https://github.com/unraveltao?tab=repositories).</sub>
 
 ## Tech Stack & Tools
 
