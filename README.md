@@ -81,10 +81,10 @@ A collection of reusable skills for AI-assisted software development, learning, 
 ### AI & Agents
 
 <p>
-  <span><img src="https://cdn.simpleicons.org/openai/10A37F" alt="ChatGPT logo" width="22" height="22" align="center"> ChatGPT&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="./assets/icons/chatgpt.svg" alt="ChatGPT custom icon" width="22" height="22" align="center"> ChatGPT&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude logo" width="22" height="22" align="center"> Claude&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek logo" width="22" height="22" align="center"> DeepSeek&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.simpleicons.org/openai/10A37F" alt="Codex logo" width="22" height="22" align="center"> Codex&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="./assets/icons/codex.svg" alt="Codex custom icon" width="22" height="22" align="center"> Codex&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.simpleicons.org/ollama/808080" alt="Ollama logo" width="22" height="22" align="center"> Ollama&nbsp;&nbsp;&nbsp;</span>
 </p>
 
@@ -111,11 +111,10 @@ A collection of reusable skills for AI-assisted software development, learning, 
 
 <p>
   <span><img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Obsidian logo" width="22" height="22" align="center"> Obsidian&nbsp;&nbsp;&nbsp;</span>
-  <span>Firecrawl&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.simpleicons.org/notion/808080" alt="Notion logo" width="22" height="22" align="center"> Notion&nbsp;&nbsp;&nbsp;</span>
 </p>
 
-<!-- Codex and GitHub Projects use parent-brand icons. Firecrawl is text-only until its logo is verified. External SVG sources should be checked in GitHub's rendered preview. -->
+<!-- ChatGPT and Codex use self-hosted custom text icons (not official brand artwork). -->
 
 ## Engineering Journey
 
@@ -162,13 +161,9 @@ Research · Documentation · Practice
 
 <sub>Selected outcomes across three projects. Dates are shown only where verified.</sub>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/journey/timeline-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/journey/timeline-light.svg">
-    <img src="./assets/journey/timeline-light.svg" alt="Engineering Journey: Computer Science Atlas Knowledge Map V0.2, Unravel Skills reusable Agent Skills, and Lattice v0.1.3 release" width="900">
-  </picture>
-</p>
+![Engineering Journey timeline: Computer Science Atlas, Unravel Skills, and Lattice](https://raw.githubusercontent.com/unraveltao/unraveltao/feat/readme-svg-tool-stack/assets/journey/timeline-light.svg)
+
+<sub>[View dark version](https://github.com/unraveltao/unraveltao/blob/feat/readme-svg-tool-stack/assets/journey/timeline-dark.svg)</sub>
 
 <sub>Evidence: [Computer Science Atlas](https://github.com/unraveltao/Computer-Science-Atlas) · [Unravel Skills](https://github.com/unraveltao/Skills) · [Lattice v0.1.3 release](https://github.com/unraveltao/Lattice/releases/tag/v0.1.3). The first two milestone dates remain unverified.</sub>
 
