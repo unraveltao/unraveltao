@@ -6,6 +6,7 @@ on:
     - cron: "41 3 * * *"
   push:
     branches:
+      - main
       - feat/readme-svg-tool-stack
     paths:
       - "scripts/generate_activity.py"
@@ -14,18 +15,39 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-activity-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Check out triggering branch
+        uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - name: Generate SVG cards
+
+      - name: Generate SVG cards from GitHub API
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: unraveltao
         run: python3 scripts/generate_activity.py
+
+      - name: Validate SVG output
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          for path in sorted(Path("assets/activity").glob("*.svg")):
+              ET.parse(path)
+              data = path.read_text(encoding="utf-8")
+              if "Waiting for the first GitHub Actions data refresh." in data:
+                  raise SystemExit(f"Placeholder remains: {path}")
+              print(f"OK: {path}")
+          assert len(list(Path("assets/activity").glob("*.svg"))) == 4
+          PY
+
       - name: Commit generated SVGs
         run: |
           git config user.name "github-actions[bot]"
@@ -34,4 +56,6 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "chore: refresh self-hosted activity SVGs"
             git push
+          else
+            echo "SVGs already up to date"
           fi
