@@ -12,56 +12,35 @@ Building software, exploring AI agents, and learning how systems work.
 
 ## Personal Blog
 
-<table>
-<tr>
-<td width="100%">
-
-### 📖 Iron Tom's Blog
+### [Iron Tom's Blog](https://unraveltao.github.io/)
 
 **Notes · Ideas · Engineering**
 
-A place to document what I learn, build, and discover — from software engineering and computer science to AI-assisted development.
+Documenting what I learn, build, and discover — from software engineering and computer science to AI-assisted development.
 
-**[Visit the Blog →](https://unraveltao.github.io/)**
-
-</td>
-</tr>
-</table>
+[Visit the Blog](https://unraveltao.github.io/)
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [Lattice](https://github.com/unraveltao/Lattice)
 
-### 🧩 [Lattice](https://github.com/unraveltao/Lattice)
+**Windows Desktop Widgets & Agent Platform** · `Rust` · `React` · `Tauri`
 
-**Desktop Agent & Plugin Platform**
+A desktop platform for extensible widgets, permissions, and agent-assisted workflows.
 
-An extensible desktop platform exploring AI agents, plugins, permissions, and developer workflows.
+### [Unravel Skills](https://github.com/unraveltao/Skills)
 
-`Rust` · `React` · `Tauri`
+**Reusable Agent Skills & Workflows** · `AI Agents` · `Automation`
 
-**[View Repository →](https://github.com/unraveltao/Lattice)**
+Independently installable skills for engineering, learning, research, and automation.
 
-</td>
-<td width="50%" valign="top">
+### [Computer Science Atlas](https://github.com/unraveltao/Computer-Science-Atlas)
 
-### 🛠️ [Skills](https://github.com/unraveltao/Skills)
+**Open Computer Science Knowledge Map** · `Markdown` · `Quartz`
 
-**Reusable AI Skills & Workflows**
+A structured knowledge map spanning 13 computer science domains.
 
-A collection of reusable skills for AI-assisted software development, learning, research, and automation.
-
-`AI Agents` · `Workflows` · `Automation`
-
-**[View Repository →](https://github.com/unraveltao/Skills)**
-
-</td>
-</tr>
-</table>
-
-<sub>More experiments and repositories: [Explore all repositories](https://github.com/unraveltao?tab=repositories).</sub>
+[Explore all repositories](https://github.com/unraveltao?tab=repositories)
 
 ## Tech Stack & Tools
 
@@ -81,10 +60,10 @@ A collection of reusable skills for AI-assisted software development, learning, 
 ### AI & Agents
 
 <p>
-  <span><img src="./assets/icons/chatgpt.svg" alt="ChatGPT custom icon" width="22" height="22" align="center"> ChatGPT&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="./assets/icons/chatgpt.svg" alt="OpenAI logo" width="22" height="22" align="center"> ChatGPT&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude logo" width="22" height="22" align="center"> Claude&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek logo" width="22" height="22" align="center"> DeepSeek&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="./assets/icons/codex.svg" alt="Codex custom icon" width="22" height="22" align="center"> Codex&nbsp;&nbsp;&nbsp;</span>
+  <span><img src="./assets/icons/codex.svg" alt="Codex logo" width="22" height="22" align="center"> Codex&nbsp;&nbsp;&nbsp;</span>
   <span><img src="https://cdn.simpleicons.org/ollama/808080" alt="Ollama logo" width="22" height="22" align="center"> Ollama&nbsp;&nbsp;&nbsp;</span>
 </p>
 
@@ -114,7 +93,7 @@ A collection of reusable skills for AI-assisted software development, learning, 
   <span><img src="https://cdn.simpleicons.org/notion/808080" alt="Notion logo" width="22" height="22" align="center"> Notion&nbsp;&nbsp;&nbsp;</span>
 </p>
 
-<!-- ChatGPT and Codex use self-hosted custom text icons (not official brand artwork). -->
+<!-- OpenAI and Codex SVG marks sourced from lobehub/lobe-icons and hosted locally. -->
 
 ## Engineering Journey
 
@@ -122,40 +101,13 @@ A collection of reusable skills for AI-assisted software development, learning, 
 
 ### What I'm Exploring
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**AI Agents** — Memory · Tool Use · Automation
 
-**🤖 AI Agents**
+**Software Engineering** — Architecture · Testing · Workflows
 
-Memory · Tool Use · Automation
+**Systems Programming** — Programming Languages · Runtimes · Security
 
-</td>
-<td width="50%" valign="top">
-
-**🧩 Software Engineering**
-
-Architecture · Testing · Workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚙️ Systems Programming**
-
-Programming Languages · Runtimes · Security
-
-</td>
-<td width="50%" valign="top">
-
-**📚 Open Source & Learning**
-
-Research · Documentation · Practice
-
-</td>
-</tr>
-</table>
+**Open Source & Learning** — Research · Documentation · Practice
 
 ### Development Milestones
 
