@@ -160,53 +160,17 @@ Research · Documentation · Practice
 
 ### Development Milestones
 
-<sub>Three recent project outcomes, backed by public repositories. Exact completion dates are shown only when documented.</sub>
+<sub>Selected outcomes across three projects. Dates are shown only where verified.</sub>
 
-<table>
-<tr>
-<td width="18%" valign="top" align="right"><strong>Latest</strong></td>
-<td width="4%" valign="top" align="center">●<br>│</td>
-<td valign="top">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/journey/timeline-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/journey/timeline-light.svg">
+    <img src="./assets/journey/timeline-light.svg" alt="Engineering Journey: Computer Science Atlas Knowledge Map V0.2, Unravel Skills reusable Agent Skills, and Lattice v0.1.3 release" width="900">
+  </picture>
+</p>
 
-**[Computer Science Atlas](https://github.com/unraveltao/Computer-Science-Atlas) — Knowledge Map V0.2**
-
-Built an open computer science knowledge map with navigation across **13 subject areas**, using Markdown and a Quartz-powered reading site.
-
-[Explore the atlas](https://unraveltao.github.io/Computer-Science-Atlas/) · [Project README](https://github.com/unraveltao/Computer-Science-Atlas#readme)
-
-<sub>Milestone date not yet verified.</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top" align="right"><strong>Latest</strong></td>
-<td valign="top" align="center">●<br>│</td>
-<td valign="top">
-
-**[Unravel Skills](https://github.com/unraveltao/Skills) — Reusable Agent Skills**
-
-Established a collection of independently installable Skill packages, with a public catalog and installation documentation for compatible Agents.
-
-[Browse the catalog](https://unraveltao.github.io/Skills/) · [Installation guide](https://unraveltao.github.io/Skills/docs/getting-started/installation/)
-
-<sub>Milestone date not yet verified.</sub>
-
-</td>
-</tr>
-<tr>
-<td valign="top" align="right"><strong>2026.10.29</strong></td>
-<td valign="top" align="center">●</td>
-<td valign="top">
-
-**[Lattice](https://github.com/unraveltao/Lattice) — Release & Distribution**
-
-Published **v0.1.3**, including installable release artifacts, update metadata, and winget manifests.
-
-[View v0.1.3 release](https://github.com/unraveltao/Lattice/releases/tag/v0.1.3) · [Changelog](https://github.com/unraveltao/Lattice/blob/main/CHANGELOG.md)
-
-</td>
-</tr>
-</table>
+<sub>Evidence: [Computer Science Atlas](https://github.com/unraveltao/Computer-Science-Atlas) · [Unravel Skills](https://github.com/unraveltao/Skills) · [Lattice v0.1.3 release](https://github.com/unraveltao/Lattice/releases/tag/v0.1.3). The first two milestone dates remain unverified.</sub>
 
 ## Contact
 
