@@ -36,18 +36,57 @@ I build desktop apps — Rust core, React shell, and the pixels in between.
 - **[Notes](https://github.com/unraveltao/Notes)** — working notes on systems, tooling and the web.
 - **[blog.github.io](https://unraveltao.github.io/)** — personal blog, still being built.
 
-## Stack
+## Tech Stack & Tools
+
+<sub>Tools I use to learn, build, and ship software. SVG badges use recognizable brand marks; Codex and GitHub Projects use their parent brand marks.</sub>
+
+### Languages & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0F6E56?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Rust-0F6E56?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/React-0F6E56?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Tauri-0F6E56?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
-  <img src="https://img.shields.io/badge/Node.js-0F6E56?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Go-0F6E56?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Python-0F6E56?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-0F6E56?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Rust-24292f?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="28">
+  <img src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="28">
+  <img src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white" alt="Python" height="28">
+  <img src="https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white" alt="React" height="28">
+  <img src="https://img.shields.io/badge/Tauri-24292f?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" height="28">
+  <img src="https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" height="28">
 </p>
+
+### AI & Agents
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-24292f?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" height="28">
+  <img src="https://img.shields.io/badge/Claude-24292f?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" height="28">
+  <img src="https://img.shields.io/badge/DeepSeek-24292f?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" height="28">
+  <img src="https://img.shields.io/badge/Codex-24292f?style=flat-square&logo=openai&logoColor=white" alt="Codex" height="28">
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-24292f?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" height="28">
+  <img src="https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white" alt="Git" height="28">
+  <img src="https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="28">
+  <img src="https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="28">
+  <img src="https://img.shields.io/badge/SQLite-24292f?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" height="28">
+  <img src="https://img.shields.io/badge/PowerShell-24292f?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" height="28">
+</p>
+
+### Project & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Linear-24292f?style=flat-square&logo=linear&logoColor=white" alt="Linear" height="28">
+  <img src="https://img.shields.io/badge/Figma-24292f?style=flat-square&logo=figma&logoColor=white" alt="Figma" height="28">
+  <img src="https://img.shields.io/badge/GitHub%20Projects-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub Projects" height="28">
+</p>
+
+### Knowledge & Research
+
+<p>
+  <img src="https://img.shields.io/badge/Obsidian-24292f?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" height="28">
+  <img src="https://img.shields.io/badge/Firecrawl-24292f?style=flat-square&logoColor=white" alt="Firecrawl" height="28">
+</p>
+
+<!-- SVG badges are hosted by shields.io. Firecrawl currently uses a text-only SVG badge until its official logo asset is verified. -->
 
 ## Activity
 
