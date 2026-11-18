@@ -44,13 +44,13 @@ def save(name, content):
     (OUT / name).write_text(content, encoding="utf-8")
 def stats(theme):
     dark = theme == "dark"
-    bg, fg, sub, accent, border = ("#0d1117","#e6edf3","#8b949e","#58a6ff","#30363d") if dark else ("#ffffff","#1f2328","#59636e","#0969da","#d1d9e0")
+    bg, fg, sub, accent, border = ("none","#c9d1d9","#8b949e","#58a6ff","#30363d") if dark else ("none","#1f2328","#59636e","#0969da","#d1d9e0")
     values = [("Contributions (last year)",calendar["totalContributions"]),("Commits",c["totalCommitContributions"]),("Pull requests",c["totalPullRequestContributions"]),("Public repos",u["repositories"]["totalCount"]),("Stars (first 100 repos)",stars),("Followers",u["followers"]["totalCount"])]
     rows = "".join(f'<text x="28" y="{100+i*35}" fill="{sub}" font-size="15">{esc(label)}</text><text x="565" y="{100+i*35}" fill="{fg}" font-size="17" text-anchor="end" font-weight="bold">{esc(value)}</text>' for i,(label,value) in enumerate(values))
-    return f'<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-label="GitHub activity statistics for {esc(USER)}"><rect x="1" y="1" width="598" height="308" rx="12" fill="{bg}" stroke="{border}"/><text x="28" y="43" fill="{accent}" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Developer Activity</text><g font-family="Arial,sans-serif">{rows}</g><text x="28" y="295" fill="{sub}" font-family="Arial,sans-serif" font-size="11">GitHub GraphQL · Updated {dt.date.today().isoformat()}</text></svg>'
+    return f'<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" role="img" aria-label="GitHub activity statistics for {esc(USER)}"><rect x="1" y="1" width="598" height="308" rx="12" fill="none" stroke="{border}"/><text x="28" y="43" fill="{accent}" font-family="Arial,sans-serif" font-size="22" font-weight="bold">Developer Activity</text><g font-family="Arial,sans-serif">{rows}</g><text x="28" y="295" fill="{sub}" font-family="Arial,sans-serif" font-size="11">GitHub GraphQL · Updated {dt.date.today().isoformat()}</text></svg>'
 def heatmap(theme):
     dark = theme == "dark"
-    bg, fg, border = ("#0d1117","#e6edf3","#30363d") if dark else ("#ffffff","#1f2328","#d1d9e0")
+    bg, fg, border = ("none","#c9d1d9","#30363d") if dark else ("none","#1f2328","#d1d9e0")
     palette = ["#161b22","#0e4429","#006d32","#26a641","#39d353"] if dark else ["#ebedf0","#9be9a8","#40c463","#30a14e","#216e39"]
     levels = {"NONE":0,"FIRST_QUARTILE":1,"SECOND_QUARTILE":2,"THIRD_QUARTILE":3,"FOURTH_QUARTILE":4}
     cells = []
