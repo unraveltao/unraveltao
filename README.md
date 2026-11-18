@@ -6,121 +6,110 @@
 
 <sub>From Kernel to Pixels · 从内核到像素</sub>
 
-Building software, exploring AI agents, and learning how systems work.
+Independent developer · Open-source builder · Lifelong learner
 
 </div>
 
+## About Me
+
+I'm an independent developer and a computer science learner who enjoys understanding how software works, from the foundations of programming languages to the design of practical tools.
+
+I learn by building: reading source code, experimenting with architectures, documenting what I discover, and turning repeated workflows into reusable tools. My current work connects **desktop applications**, **AI agents**, **software engineering**, and **open-source knowledge sharing**.
+
+I care about maintainable systems, clear boundaries, and results that can be tested rather than merely demonstrated. This profile is a living record of what I'm building and learning.
+
 ## Personal Blog
 
-### [Iron Tom's Blog](https://unraveltao.github.io/)
+<a href="https://unraveltao.github.io/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/blog-dark.svg">
+  <img src="./assets/banners/blog-light.svg" alt="Open Iron Tom's personal blog" width="960">
+</picture>
+</a>
 
-**Notes · Ideas · Engineering**
+A home for engineering notes, experiments, and reflections on learning computer science. I use it to connect ideas from real projects with the principles behind them.
 
-Documenting what I learn, build, and discover — from software engineering and computer science to AI-assisted development.
-
-[Visit the Blog](https://unraveltao.github.io/)
+**[Visit the blog](https://unraveltao.github.io/)**
 
 ## Featured Projects
 
-### [Lattice](https://github.com/unraveltao/Lattice)
+<a href="https://github.com/unraveltao/Lattice">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/lattice-dark.svg">
+  <img src="./assets/banners/lattice-light.svg" alt="Open Lattice repository" width="960">
+</picture>
+</a>
 
-**Windows Desktop Widgets & Agent Platform** · `Rust` · `React` · `Tauri`
+**Lattice — desktop agent and plugin platform** · `Rust` · `React` · `Tauri`
 
-A desktop platform for extensible widgets, permissions, and agent-assisted workflows.
+Building an extensible desktop environment for widgets, plugins, permissions, and agent-assisted workflows. My engineering focus includes safe tool authorization, recoverable execution, and a maintainable boundary between the desktop shell and agent capabilities.
 
-### [Unravel Skills](https://github.com/unraveltao/Skills)
+**Status:** In active development. A verified [v0.1.3 release](https://github.com/unraveltao/Lattice/releases/tag/v0.1.3) is available; later development milestones are not presented as published releases.
 
-**Reusable Agent Skills & Workflows** · `AI Agents` · `Automation`
+<a href="https://github.com/unraveltao/Skills">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/skills-dark.svg">
+  <img src="./assets/banners/skills-light.svg" alt="Open Unravel Skills repository" width="960">
+</picture>
+</a>
 
-Independently installable skills for engineering, learning, research, and automation.
+**Unravel Skills — reusable agent skills and workflows** · `AI Agents` · `Automation`
 
-### [Computer Science Atlas](https://github.com/unraveltao/Computer-Science-Atlas)
+A collection of independently installable skills for learning, research, engineering, and repeatable tasks. The goal is to turn useful practices into understandable, reusable workflows rather than reinventing the process every time.
 
-**Open Computer Science Knowledge Map** · `Markdown` · `Quartz`
+**Explore:** [Source repository](https://github.com/unraveltao/Skills) · [Skills catalog](https://unraveltao.github.io/Skills/)
 
-A structured knowledge map spanning 13 computer science domains.
+<a href="https://github.com/unraveltao/Computer-Science-Atlas">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/atlas-dark.svg">
+  <img src="./assets/banners/atlas-light.svg" alt="Open Computer Science Atlas repository" width="960">
+</picture>
+</a>
 
-[Explore all repositories](https://github.com/unraveltao?tab=repositories)
+**Computer Science Atlas — a structured learning map** · `Markdown` · `Quartz`
+
+Organizing computer science knowledge into a navigable collection of notes and connections across **13 subject areas**. It is both a learning resource and an experiment in building a maintainable knowledge system.
+
+**Explore:** [Source repository](https://github.com/unraveltao/Computer-Science-Atlas) · [Knowledge site](https://unraveltao.github.io/Computer-Science-Atlas/)
+
+[Browse all repositories](https://github.com/unraveltao?tab=repositories)
 
 ## Tech Stack & Tools
 
-<sub>Technologies and tools I use. Original multicolor SVGs where available; brand-color marks otherwise. Some products share their parent brand mark.</sub>
+A focused selection of languages, frameworks, and tools I use in development and learning. Logos are embedded from established open-source icon libraries; the artwork is not recreated from text placeholders.
 
-### Languages & Frameworks
-
-<p>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust logo" width="22" height="22" align="center"> Rust&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="22" height="22" align="center"> TypeScript&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python logo" width="22" height="22" align="center"> Python&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React logo" width="22" height="22" align="center"> React&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" alt="Tauri logo" width="22" height="22" align="center"> Tauri&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js logo" width="22" height="22" align="center"> Node.js&nbsp;&nbsp;&nbsp;</span>
-</p>
-
-### AI & Agents
-
-<p>
-  <span><img src="./assets/icons/chatgpt.svg" alt="OpenAI logo" width="22" height="22" align="center"> ChatGPT&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude logo" width="22" height="22" align="center"> Claude&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek logo" width="22" height="22" align="center"> DeepSeek&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="./assets/icons/codex.svg" alt="Codex logo" width="22" height="22" align="center"> Codex&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.simpleicons.org/ollama/808080" alt="Ollama logo" width="22" height="22" align="center"> Ollama&nbsp;&nbsp;&nbsp;</span>
-</p>
-
-### Development Tools
-
-<p>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code logo" width="22" height="22" align="center"> VS Code&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git logo" width="22" height="22" align="center"> Git&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.simpleicons.org/github/808080" alt="GitHub logo" width="22" height="22" align="center"> GitHub&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker logo" width="22" height="22" align="center"> Docker&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite logo" width="22" height="22" align="center"> SQLite&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell logo" width="22" height="22" align="center"> PowerShell&nbsp;&nbsp;&nbsp;</span>
-</p>
-
-### Project & Design
-
-<p>
-  <span><img src="https://cdn.simpleicons.org/linear/5E6AD2" alt="Linear logo" width="22" height="22" align="center"> Linear&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma logo" width="22" height="22" align="center"> Figma&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.simpleicons.org/github/808080" alt="GitHub Projects logo" width="22" height="22" align="center"> GitHub Projects&nbsp;&nbsp;&nbsp;</span>
-</p>
-
-### Knowledge & Research
-
-<p>
-  <span><img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Obsidian logo" width="22" height="22" align="center"> Obsidian&nbsp;&nbsp;&nbsp;</span>
-  <span><img src="https://cdn.simpleicons.org/notion/808080" alt="Notion logo" width="22" height="22" align="center"> Notion&nbsp;&nbsp;&nbsp;</span>
-</p>
-
-<!-- OpenAI and Codex SVG marks sourced from lobehub/lobe-icons and hosted locally. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/tech-stack-dark.svg">
+  <img src="./assets/banners/tech-stack-light.svg" alt="Technology stack with authentic brand SVG marks for Rust, TypeScript, Python, React, Tauri, ChatGPT, Codex, Claude, VS Code, Git, GitHub, SQLite, and Figma" width="960">
+</picture>
 
 ## Engineering Journey
 
-<sub>Explore · Build · Learn · Iterate — from curiosity to verifiable engineering outcomes.</sub>
+I approach projects as a cycle of **explore → build → test → document → improve**. Along the way, I'm learning how to move from a working prototype to software that other people can understand, verify, and use.
 
 ### What I'm Exploring
 
-**AI Agents** — Memory · Tool Use · Automation
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/explorations-dark.svg">
+  <img src="./assets/banners/explorations-light.svg" alt="Four exploration areas: AI agents, software engineering, systems programming, and open-source learning" width="960">
+</picture>
 
-**Software Engineering** — Architecture · Testing · Workflows
-
-**Systems Programming** — Programming Languages · Runtimes · Security
-
-**Open Source & Learning** — Research · Documentation · Practice
+These topics reinforce each other: agent reliability benefits from sound software architecture; systems programming clarifies performance and safety trade-offs; source reading and documentation help turn experiments into durable knowledge.
 
 ### Development Milestones
 
-<sub>Selected outcomes across three projects. Dates are shown only where verified.</sub>
+Selected public outcomes, with dates stated only where they can be verified.
 
-![Engineering Journey timeline: Computer Science Atlas, Unravel Skills, and Lattice](https://raw.githubusercontent.com/unraveltao/unraveltao/feat/readme-svg-tool-stack/assets/journey/timeline-light.svg)
+![Engineering milestones for Computer Science Atlas, Unravel Skills, and Lattice](./assets/journey/timeline-light.svg)
 
-<sub>[View dark version](https://github.com/unraveltao/unraveltao/blob/feat/readme-svg-tool-stack/assets/journey/timeline-dark.svg)</sub>
+**Evidence:** [Computer Science Atlas](https://github.com/unraveltao/Computer-Science-Atlas) · [Unravel Skills](https://github.com/unraveltao/Skills) · [Lattice v0.1.3 release](https://github.com/unraveltao/Lattice/releases/tag/v0.1.3)
 
-<sub>Evidence: [Computer Science Atlas](https://github.com/unraveltao/Computer-Science-Atlas) · [Unravel Skills](https://github.com/unraveltao/Skills) · [Lattice v0.1.3 release](https://github.com/unraveltao/Lattice/releases/tag/v0.1.3). The first two milestone dates remain unverified.</sub>
+The Atlas and Skills milestone dates are not yet verified. Ongoing work and future plans are not labeled as completed releases.
 
-## Contact
+## Connect
 
-**irontom233@gmail.com** — the fastest way to reach me.
+If you're interested in open-source engineering, AI agents, or learning by building, feel free to reach out.
 
-[Email](mailto:irontom233@gmail.com) · [X @iron_tom233](https://x.com/iron_tom233) · [GitHub](https://github.com/unraveltao)
+**Email:** [irontom233@gmail.com](mailto:irontom233@gmail.com) · **[GitHub](https://github.com/unraveltao)** · **[X](https://x.com/iron_tom233)** · **[Blog](https://unraveltao.github.io/)**
+
+<!-- Visual sources: devicons/devicon and lobehub/lobe-icons. Banner compositions are original SVG layouts. -->
