@@ -117,33 +117,57 @@ A collection of reusable skills for AI-assisted software development, learning, 
 
 <!-- Codex and GitHub Projects use parent-brand icons. Firecrawl is text-only until its logo is verified. External SVG sources should be checked in GitHub's rendered preview. -->
 
-## Developer Activity
+## Engineering Journey
 
-<sub>Self-hosted SVGs generated from GitHub contribution data. Images are stored in this repository, not fetched from live third-party image services.</sub>
+<sub>Explore · Build · Learn · Iterate — from curiosity to verifiable engineering outcomes.</sub>
 
-### Contribution Stats
+### What I'm Exploring
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/activity/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/activity/stats-light.svg">
-    <img src="./assets/activity/stats-light.svg" alt="GitHub developer activity statistics" width="600">
-  </picture>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Contribution Calendar
+**🤖 AI Agents**
 
-<p align="center">
-  <a href="https://github.com/unraveltao">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/activity/calendar-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/activity/calendar-light.svg">
-      <img src="./assets/activity/calendar-light.svg" alt="GitHub contribution calendar" width="780">
-    </picture>
-  </a>
-</p>
+Memory · Tool Use · Automation
 
-<sub>Source: [GitHub profile](https://github.com/unraveltao). Data refreshes after the [profile activity workflow](./.github/workflows/profile-activity.yml) runs successfully.</sub>
+</td>
+<td width="50%" valign="top">
+
+**🧩 Software Engineering**
+
+Architecture · Testing · Workflows
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Systems Programming**
+
+Programming Languages · Runtimes · Security
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Open Source & Learning**
+
+Research · Documentation · Practice
+
+</td>
+</tr>
+</table>
+
+### Development Milestones
+
+<sub>Selected, publicly documented outcomes · newest first. Release milestones refer to published versions, not roadmap labels.</sub>
+
+| Date | Milestone | Evidence |
+| :--- | :--- | :--- |
+| **2026.10.29** | **Lattice · Release & Distribution** — Published v0.1.3, with release artifacts, update metadata, and winget manifests. | [v0.1.3 release](https://github.com/unraveltao/Lattice/releases/tag/v0.1.3) |
+| **2026.10.24** | **Lattice · First Public Release** — Shipped the first installable version of the desktop platform. | [v0.1.0 release](https://github.com/unraveltao/Lattice/releases/tag/v0.1.0) |
+
+<sub>Also building: [Unravel Skills](https://github.com/unraveltao/Skills) · [Computer Science Atlas](https://github.com/unraveltao/Computer-Science-Atlas) · [Council Sources](https://github.com/unraveltao/council-sources). These are not listed as dated milestones until a specific completed outcome and its date are verified.</sub>
 
 ## Contact
 
