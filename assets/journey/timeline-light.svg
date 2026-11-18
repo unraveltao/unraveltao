@@ -4,28 +4,28 @@
 <text x="42" y="47" fill="#1f2328" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">Engineering Journey</text>
 <text x="43" y="73" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="13">SELECTED PROJECT MILESTONES  /  EXPLORE · BUILD · LEARN · ITERATE</text>
 <path d="M76 133 V483" fill="none" stroke="#d0d7de" stroke-width="3" stroke-linecap="round"/>
-<rect x="112" y="105" width="744" height="142" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+
 <circle cx="76" cy="142" r="14" fill="#ffffff" stroke="#a371f7" stroke-width="4"/>
 <circle cx="76" cy="142" r="5" fill="#a371f7"/>
 <rect x="136" y="124" width="4" height="23" rx="2" fill="#a371f7"/>
 <text x="154" y="140" fill="#a371f7" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">COMPUTER SCIENCE ATLAS</text>
 <text x="136" y="178" fill="#1f2328" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Knowledge Map V0.2</text>
 <text x="136" y="206" fill="#1f2328" font-family="Arial,Helvetica,sans-serif" font-size="15">13 computer science domains  /  public reading site</text>
-<text x="136" y="229" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="12">Project documentation  ·  completion date unverified</text>
-<rect x="112" y="266" width="744" height="142" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="136" y="229" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="12">Project documentation  ·  date unverified</text>
+
 <circle cx="76" cy="303" r="14" fill="#ffffff" stroke="#3fb950" stroke-width="4"/>
 <circle cx="76" cy="303" r="5" fill="#3fb950"/>
 <rect x="136" y="285" width="4" height="23" rx="2" fill="#3fb950"/>
 <text x="154" y="301" fill="#3fb950" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">UNRAVEL SKILLS</text>
 <text x="136" y="339" fill="#1f2328" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Reusable Agent Skills</text>
 <text x="136" y="367" fill="#1f2328" font-family="Arial,Helvetica,sans-serif" font-size="15">Installable skill packages  /  catalog and documentation</text>
-<text x="136" y="390" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="12">Project documentation  ·  completion date unverified</text>
-<rect x="112" y="427" width="744" height="142" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="136" y="390" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="12">Project documentation  ·  date unverified</text>
+
 <circle cx="76" cy="464" r="14" fill="#ffffff" stroke="#f2cc60" stroke-width="4"/>
 <circle cx="76" cy="464" r="5" fill="#f2cc60"/>
 <rect x="136" y="446" width="4" height="23" rx="2" fill="#f2cc60"/>
 <text x="154" y="462" fill="#f2cc60" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">LATTICE</text>
-<text x="136" y="500" fill="#1f2328" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Release & Distribution</text>
+<text x="136" y="500" fill="#1f2328" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Release &amp; Distribution</text>
 <text x="136" y="528" fill="#1f2328" font-family="Arial,Helvetica,sans-serif" font-size="15">v0.1.3 published  /  installers and distribution metadata</text>
 <text x="136" y="551" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="12">2026.10.29  ·  GitHub Release</text>
 <text x="43" y="589" fill="#59636e" font-family="Arial,Helvetica,sans-serif" font-size="12">UNRAVEL BEYOND BOUNDARIES</text>
