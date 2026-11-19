@@ -106,6 +106,16 @@ Selected public outcomes, with dates stated only where they can be verified.
 
 The Atlas and Skills milestone dates are not yet verified. Ongoing work and future plans are not labeled as completed releases.
 
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake.svg">
+    <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake.svg" width="820">
+  </picture>
+</p>
+
 ## Connect
 
 If you're interested in open-source engineering, AI agents, or learning by building, feel free to reach out.
