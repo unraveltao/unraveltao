@@ -1,0 +1,76 @@
+name: Profile README checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-checks-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-profile-assets:
+    name: Check README assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Verify local README images and SVG files
+        run: |
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+          from urllib.parse import urlsplit
+          import re
+          import xml.etree.ElementTree as ET
+
+          root = Path(".")
+          readme = (root / "README.md").read_text(encoding="utf-8")
+          references = []
+
+          class MediaParser(HTMLParser):
+              def handle_starttag(self, tag, attrs):
+                  for name, value in attrs:
+                      if name == "src" and value:
+                          references.append(value)
+                      elif name == "srcset" and value:
+                          references.extend(
+                              candidate.strip().split()[0]
+                              for candidate in value.split(",")
+                              if candidate.strip()
+                          )
+
+          MediaParser().feed(readme)
+          references.extend(
+              match.group(1).strip().split()[0]
+              for match in re.finditer(r"!\[[^\]]*\]\(([^)]+)\)", readme)
+          )
+
+          missing = []
+          for reference in references:
+              parsed = urlsplit(reference)
+              if parsed.scheme or parsed.netloc or not parsed.path:
+                  continue
+              path = (root / parsed.path).resolve()
+              if not path.is_relative_to(root.resolve()):
+                  missing.append(reference)
+              elif not path.is_file():
+                  missing.append(reference)
+
+          if missing:
+              raise SystemExit("Missing or unsafe local README media:\n" + "\n".join(missing))
+
+          svg_files = sorted((root / "assets").rglob("*.svg"))
+          for svg_path in svg_files:
+              ET.parse(svg_path)
+
+          print(f"README media references: {len(references)} checked")
+          print(f"SVG files: {len(svg_files)} parsed")
+          PY
