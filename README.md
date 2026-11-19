@@ -18,6 +18,10 @@ I learn by building: reading source code, experimenting with architectures, docu
 
 I care about maintainable systems, clear boundaries, and results that can be tested rather than merely demonstrated. This profile is a living record of what I'm building and learning.
 
+<p align="center">
+  <img src="./assets/banners/ai-companions.jpg" alt="AI companions: Gemini, Claude, Kimi, GPT, Qwen, GLM, DeepSeek, Grok, MiniMax, and Doubao Seed" width="960">
+</p>
+
 ## Personal Blog
 
 <a href="https://unraveltao.github.io/">
