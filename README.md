@@ -110,9 +110,9 @@ The Atlas and Skills milestone dates are not yet verified. Ongoing work and futu
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake.svg">
-    <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake.svg" width="820">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake.gif">
+    <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/unraveltao/unraveltao/output/github-snake.gif" width="820">
   </picture>
 </p>
 
