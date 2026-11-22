@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/banners/unravel-readme-banner-static-logo-0.5x.gif"
+    alt="UNRAVEL — Beyond Boundaries"
+    width="100%"
+  >
+</p>
+
 <div align="center">
 
 # Iron Tom
